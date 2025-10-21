@@ -18,3 +18,4 @@ namespace KitapMagazasiOtomasyonu1
         }
     }
 }
+
