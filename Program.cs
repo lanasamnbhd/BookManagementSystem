@@ -14,4 +14,5 @@ namespace KitapMagazasiOtomasyonu1
             Application.Run(new Form1());
         }
     }
+
 }
